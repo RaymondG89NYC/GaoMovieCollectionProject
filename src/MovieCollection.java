@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 import static java.util.Collection.*;
+
 import static java.util.Collections.sort;
 
 public class MovieCollection
