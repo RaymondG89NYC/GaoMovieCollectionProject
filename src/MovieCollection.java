@@ -9,6 +9,7 @@ import static java.util.Collections.sort;
 
 public class MovieCollection
 {
+    //For some reason it says Arturi commited these changes. I don't know how to change the name
     private ArrayList<Movie> movies;
     private Scanner scanner;
     private ArrayList<String> actors;
